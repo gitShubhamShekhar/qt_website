@@ -1,2 +1,2 @@
-# qt_website
+# Quantumease Technology Website
 Website for Quantumease Technology
